@@ -1,0 +1,22 @@
+{
+  "wheel_id": 513,
+  "structure": "umbrella",
+  "slug": "sydneyhomeloanbroker-104",
+  "project": "mortgage-brokers-sydney-beginner-guide-5f90cfbd44ea0e93641e327a",
+  "parent_t1_ref": "sydneyhomeloanbroker-152",
+  "node_role": "feeder",
+  "money_target": "sydneyhomeloanbroker.com.au",
+  "primary_kw": "mortgage brokers sydney beginner guide",
+  "intended_url": "http://mortgage-brokers-sydney-beginner-guide-5f90cfbd44ea0e93641e327a.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "3d1f26c6e5c46ed0",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/sydneyhomeloanbroker-152/",
+      "anchor": "the mortgage brokers sydney what to expect overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
